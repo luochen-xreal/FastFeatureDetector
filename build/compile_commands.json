@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/xreal/xreal/ffd/fast_feature_detector/cpp/build",
+  "command": "/usr/bin/c++  -I/home/xreal/xreal/ffd/fast_feature_detector/cpp -isystem /usr/include/opencv4 -std=c++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/xreal/xreal/ffd/fast_feature_detector/cpp/main.cpp",
+  "file": "/home/xreal/xreal/ffd/fast_feature_detector/cpp/main.cpp"
+},
+{
+  "directory": "/home/xreal/xreal/ffd/fast_feature_detector/cpp/build",
+  "command": "/usr/bin/c++ -DFFD_EXPORTS -I/home/xreal/xreal/ffd/fast_feature_detector/cpp -isystem /usr/include/opencv4 -fPIC -std=c++17 -o CMakeFiles/FFD.dir/ffd.cc.o -c /home/xreal/xreal/ffd/fast_feature_detector/cpp/ffd.cc",
+  "file": "/home/xreal/xreal/ffd/fast_feature_detector/cpp/ffd.cc"
+},
+{
+  "directory": "/home/xreal/xreal/ffd/fast_feature_detector/cpp/build",
+  "command": "/usr/bin/c++  -I/home/xreal/xreal/ffd/fast_feature_detector/cpp -isystem /usr/include/opencv4 -std=c++17 -o CMakeFiles/ffdtest.dir/ffdtest.cc.o -c /home/xreal/xreal/ffd/fast_feature_detector/cpp/ffdtest.cc",
+  "file": "/home/xreal/xreal/ffd/fast_feature_detector/cpp/ffdtest.cc"
+}
+]
