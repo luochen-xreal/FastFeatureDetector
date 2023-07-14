@@ -1,5 +1,0 @@
-/home/xreal/xreal/ffd/fast_feature_detector/cpp/build/CMakeFiles/main.dir
-/home/xreal/xreal/ffd/fast_feature_detector/cpp/build/CMakeFiles/ffdtest.dir
-/home/xreal/xreal/ffd/fast_feature_detector/cpp/build/CMakeFiles/FFD.dir
-/home/xreal/xreal/ffd/fast_feature_detector/cpp/build/CMakeFiles/edit_cache.dir
-/home/xreal/xreal/ffd/fast_feature_detector/cpp/build/CMakeFiles/rebuild_cache.dir
